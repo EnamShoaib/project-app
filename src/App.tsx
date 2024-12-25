@@ -6,6 +6,9 @@ function handleSomthing() {
   console.log("hello world");
 }
 
+function changeByHozifa(){
+}
+
 function App() {
   // any code
   // jnsnjk
