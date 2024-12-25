@@ -2,7 +2,13 @@ import { useState } from "react";
 
 let name = "Ahmed";
 
+function handleSomthing() {
+  console.log("hello world");
+}
+
 function App() {
+  // any code
+  // jnsnjk
   console.log("render");
   const [value, setValue] = useState("Ahmed");
 

@@ -6,6 +6,8 @@ interface props {
   Click: (title: string) => void;
 }
 
+// change
+
 function Card({ title, Click }: props) {
   return (
     <div className="content">
